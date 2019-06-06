@@ -1,0 +1,4 @@
+- IntelliJ で Scala, SBT プラグインを入れる。
+- src/main/scala を Sources Root 、src/test/scala を Test Sources Root にする。
+
+
