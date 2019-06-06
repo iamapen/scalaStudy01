@@ -1,4 +1,4 @@
 - IntelliJ で Scala, SBT プラグインを入れる。
 - src/main/scala を Sources Root 、src/test/scala を Test Sources Root にする。
 
-
+- 初回はSBTでの依存ライブラリ取得にけっこう時間がかかる。数分～十数分
